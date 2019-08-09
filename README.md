@@ -12,6 +12,8 @@ Notice: service should be follow the command.
 nest generate service contacts
 ```
 
+run the project
+
 ```
 yarn 
 yarn start:dev
